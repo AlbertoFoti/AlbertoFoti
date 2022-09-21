@@ -16,6 +16,12 @@
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 </div>
 
+<p align="center">
+ <img src="https://github.com/XXmorpheusX/XXmorpheusX/blob/main/assets/programming_logos/c.svg" alt="c" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/XXmorpheusX/XXmorpheusX/blob/main/assets/programming_logos/cplusplus.svg" alt="c++" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/XXmorpheusX/XXmorpheusX/blob/main/assets/programming_logos/rust.svg" alt="rust" style="vertical-align:top; margin:4px">
+</p>
+
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXmorpheusX&layout=compact&theme=dark" />
   
 ### Other Languages I know

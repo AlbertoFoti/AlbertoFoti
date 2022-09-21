@@ -2,8 +2,10 @@
 
 ### GitHub Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=XXmorpheusX&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXmorpheusX&layout=compact&theme=dracula" />
+  <a href="https://https://github.com/XXmorpheusX">
+    <img src="https://github-readme-stats.vercel.app/api?username=XXmorpheusX&show_icons=true&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXmorpheusX&layout=compact&theme=dracula" />
+  </a>
 </div>
 
 <br></br>

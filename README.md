@@ -9,6 +9,9 @@
 </div>
 
 <br></br>
+### Main Projects I'm currently working on
+
+<br></br>
 ### Tech & Tools Preference
 
 <div>

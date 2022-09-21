@@ -3,10 +3,8 @@
 ### GitHub Stats
 
 <div>
-<a href="https://github.com/XXmorpheusX">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=XXmorpheusX&show_icons=true&theme=dracula" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXmorpheusX&layout=compact&theme=dracula" />
-</a>
 </div>
 
 <br></br>

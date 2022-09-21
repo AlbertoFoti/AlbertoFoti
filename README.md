@@ -17,9 +17,9 @@
 </div>
 
 <p align="center">
- <img src="https://github.com/XXmorpheusX/XXmorpheusX/blob/main/assets/programming_logos/c.svg" alt="c" style="vertical-align:top; margin:4px">
- <img src="https://github.com/XXmorpheusX/XXmorpheusX/blob/main/assets/programming_logos/cplusplus.svg" alt="c++" style="vertical-align:top; margin:4px">
- <img src="https://github.com/XXmorpheusX/XXmorpheusX/blob/main/assets/programming_logos/rust.svg" alt="rust" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/XXmorpheusX/XXmorpheusX/blob/main/assets/programming_logos/c.svg" alt="c" style="vertical-align:top; margin:4px" height= 15px width = 15px>
+ <img src="https://github.com/XXmorpheusX/XXmorpheusX/blob/main/assets/programming_logos/cplusplus.svg" alt="c++" style="vertical-align:top; margin:4px" height= 15px width = 15px>
+ <img src="https://github.com/XXmorpheusX/XXmorpheusX/blob/main/assets/programming_logos/rust.svg" alt="rust" style="vertical-align:top; margin:4px" height= 15px width = 15px>
 </p>
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXmorpheusX&layout=compact&theme=dark" />

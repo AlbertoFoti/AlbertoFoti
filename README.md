@@ -3,7 +3,7 @@
 ### GitHub Stats
 <div>
   <a href="https://github.com/XXmorpheusX">
-    <img src="https://github-readme-stats.vercel.app/api?username=XXmorpheusX&show_icons=true&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api?username=XXmorpheusX&show_icons=true&theme=dark" />
   </a>
 </div>
 
@@ -16,7 +16,7 @@
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 </div>
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXmorpheusX&layout=compact&theme=dracula" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXmorpheusX&layout=compact&theme=dark" />
   
 ### Other Languages I know
 

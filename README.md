@@ -27,6 +27,16 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XXmorpheusX&repo=PacketSnooper&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+### Templates
+
+<a href="https://github.com/XXmorpheusX/ImGuiTemplate">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XXmorpheusX&repo=ImGuiTemplate&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/XXmorpheusX/RustLibraryTemplate">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XXmorpheusX&repo=RustLibraryTemplate&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 ### Tech & Tools Preference
 
 <div>

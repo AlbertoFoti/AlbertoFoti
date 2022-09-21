@@ -12,19 +12,35 @@
 ### Main Projects I'm currently working on
 
 <a href="https://github.com/XXmorpheusX/FinancialPlanner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XXmorpheusX&repo=FinancialPlanner&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XXmorpheusX&repo=FinancialPlanner&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
 <a href="https://github.com/XXmorpheusX/Computer-Simulator-8085">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XXmorpheusX&repo=Computer-Simulator-8085&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XXmorpheusX&repo=Computer-Simulator-8085&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
 <a href="https://github.com/XXmorpheusX/Control-Systems-Algorithms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XXmorpheusX&repo=Control-Systems-Algorithms&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XXmorpheusX&repo=Control-Systems-Algorithms&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
 <a href="https://github.com/XXmorpheusX/PacketSnooper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XXmorpheusX&repo=PacketSnooper&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XXmorpheusX&repo=PacketSnooper&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+</a>
+
+<a href="https://github.com/XXmorpheusX/FinancialPlanner">
+  <img align="center" src="./assets/images/unknown_019.png" width=35%/>
+</a>
+
+<a href="https://github.com/XXmorpheusX/Computer-Simulator-8085">
+  <img align="center" src="./assets/images/unknown_025.png" width="35%" />
+</a>
+
+<a href="https://github.com/XXmorpheusX/Control-Systems-Algorithms">
+  <img align="center" src="./assets/images/lorenz_chaotic.png" width="35%" />
+</a>
+
+<a href="https://github.com/XXmorpheusX/PacketSnooper">
+  <img align="center" src="./assets/images/verbose.png" width="35%"/>
 </a>
 
 ### Templates

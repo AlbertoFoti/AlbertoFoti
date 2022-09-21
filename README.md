@@ -2,7 +2,7 @@
 
 ### GitHub Stats
 <div>
-  <a href="https://https://github.com/XXmorpheusX">
+  <a href="https://github.com/XXmorpheusX">
     <img src="https://github-readme-stats.vercel.app/api?username=XXmorpheusX&show_icons=true&theme=dracula" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXmorpheusX&layout=compact&theme=dracula" />
   </a>
@@ -23,5 +23,5 @@
 ### Contacts
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/XXmorpheusX)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]()
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-foti-3823b714a/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:albertofots@gmail.com)

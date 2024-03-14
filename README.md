@@ -3,20 +3,20 @@
 ### GitHub Stats
 
 <a href="https://github.com/AlbertoFoti">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXmorpheusX&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoFoti&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/AlbertoFoti">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=XXmorpheusX&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlbertoFoti&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
 ### Main Projects I'm currently working on
 
 <a href="https://github.com/AlbertoFoti/FinancialPlanner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XXmorpheusX&repo=FinancialPlanner&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertoFoti&repo=FinancialPlanner&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
 <a href="https://github.com/AlbertoFoti/Computer-Simulator-8085">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XXmorpheusX&repo=Computer-Simulator-8085&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertoFoti&repo=Computer-Simulator-8085&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
 <a href="https://github.com/AlbertoFoti/FinancialPlanner">
@@ -28,11 +28,11 @@
 </a>
 
 <a href="https://github.com/AlbertoFoti/Control-Systems-Algorithms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XXmorpheusX&repo=Control-Systems-Algorithms&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertoFoti&repo=Control-Systems-Algorithms&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
 <a href="https://github.com/AlbertoFoti/PacketSnooper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XXmorpheusX&repo=PacketSnooper&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertoFoti&repo=PacketSnooper&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
 <a href="https://github.com/AlbertoFoti/Control-Systems-Algorithms">
@@ -46,11 +46,11 @@
 ### Templates
 
 <a href="https://github.com/AlbertoFoti/ImGuiTemplate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XXmorpheusX&repo=ImGuiTemplate&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertoFoti&repo=ImGuiTemplate&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/AlbertoFoti/RustLibraryTemplate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XXmorpheusX&repo=RustLibraryTemplate&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertoFoti&repo=RustLibraryTemplate&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 ### Tech & Tools Preference

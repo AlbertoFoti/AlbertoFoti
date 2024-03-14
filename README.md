@@ -2,54 +2,54 @@
 
 ### GitHub Stats
 
-<a href="https://github.com/XXmorpheusX">
+<a href="https://github.com/AlbertoFoti">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXmorpheusX&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/XXmorpheusX">
+<a href="https://github.com/AlbertoFoti">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=XXmorpheusX&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
 ### Main Projects I'm currently working on
 
-<a href="https://github.com/XXmorpheusX/FinancialPlanner">
+<a href="https://github.com/AlbertoFoti/FinancialPlanner">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XXmorpheusX&repo=FinancialPlanner&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
-<a href="https://github.com/XXmorpheusX/Computer-Simulator-8085">
+<a href="https://github.com/AlbertoFoti/Computer-Simulator-8085">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XXmorpheusX&repo=Computer-Simulator-8085&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
-<a href="https://github.com/XXmorpheusX/FinancialPlanner">
+<a href="https://github.com/AlbertoFoti/FinancialPlanner">
   <img align="center" src="./assets/images/unknown_019.png" width=35%/>
 </a>
 
-<a href="https://github.com/XXmorpheusX/Computer-Simulator-8085">
+<a href="https://github.com/AlbertoFoti/Computer-Simulator-8085">
   <img align="center" src="./assets/images/unknown_025.png" width="35%" />
 </a>
 
-<a href="https://github.com/XXmorpheusX/Control-Systems-Algorithms">
+<a href="https://github.com/AlbertoFoti/Control-Systems-Algorithms">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XXmorpheusX&repo=Control-Systems-Algorithms&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
-<a href="https://github.com/XXmorpheusX/PacketSnooper">
+<a href="https://github.com/AlbertoFoti/PacketSnooper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XXmorpheusX&repo=PacketSnooper&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
-<a href="https://github.com/XXmorpheusX/Control-Systems-Algorithms">
+<a href="https://github.com/AlbertoFoti/Control-Systems-Algorithms">
   <img align="center" src="./assets/images/lorenz_chaotic.png" width="35%" />
 </a>
 
-<a href="https://github.com/XXmorpheusX/PacketSnooper">
+<a href="https://github.com/AlbertoFoti/PacketSnooper">
   <img align="center" src="./assets/images/verbose.png" width="35%"/>
 </a>
 
 ### Templates
 
-<a href="https://github.com/XXmorpheusX/ImGuiTemplate">
+<a href="https://github.com/AlbertoFoti/ImGuiTemplate">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XXmorpheusX&repo=ImGuiTemplate&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/XXmorpheusX/RustLibraryTemplate">
+<a href="https://github.com/AlbertoFoti/RustLibraryTemplate">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XXmorpheusX&repo=RustLibraryTemplate&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 

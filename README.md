@@ -4,13 +4,17 @@ I build software around systems, simulation, finance, and low-level programming.
 
 ### GitHub Stats
 
-<a href="https://github.com/AlbertoFoti">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoFoti&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
-</a>
+[![GitHub Profile](https://img.shields.io/badge/GitHub-AlbertoFoti-181717?style=for-the-badge&logo=github)](https://github.com/AlbertoFoti)
+[![Followers](https://img.shields.io/github/followers/AlbertoFoti?style=for-the-badge&logo=github&label=Followers)](https://github.com/AlbertoFoti?tab=followers)
+[![Stars](https://img.shields.io/github/stars/AlbertoFoti?style=for-the-badge&logo=github&label=Stars)](https://github.com/AlbertoFoti?tab=repositories)
 
-<a href="https://github.com/AlbertoFoti">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlbertoFoti&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Alberto Foti GitHub Stats" />
-</a>
+<div>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+</div>
 
 ### Main Projects
 
@@ -34,29 +38,12 @@ I build software around systems, simulation, finance, and low-level programming.
 
 ### Featured Repositories
 
-<a href="https://github.com/AlbertoFoti/FinancialPlanner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertoFoti&repo=FinancialPlanner&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/AlbertoFoti/Computer-Simulator-8085">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertoFoti&repo=Computer-Simulator-8085&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/AlbertoFoti/Control-Systems-Algorithms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertoFoti&repo=Control-Systems-Algorithms&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/AlbertoFoti/PacketSnooper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertoFoti&repo=PacketSnooper&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/AlbertoFoti/ImGuiTemplate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertoFoti&repo=ImGuiTemplate&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/AlbertoFoti/RustLibraryTemplate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertoFoti&repo=RustLibraryTemplate&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+[![FinancialPlanner](https://img.shields.io/badge/FinancialPlanner-181717?style=for-the-badge&logo=github)](https://github.com/AlbertoFoti/FinancialPlanner)
+[![Computer-Simulator-8085](https://img.shields.io/badge/Computer--Simulator--8085-181717?style=for-the-badge&logo=github)](https://github.com/AlbertoFoti/Computer-Simulator-8085)
+[![Control-Systems-Algorithms](https://img.shields.io/badge/Control--Systems--Algorithms-181717?style=for-the-badge&logo=github)](https://github.com/AlbertoFoti/Control-Systems-Algorithms)
+[![PacketSnooper](https://img.shields.io/badge/PacketSnooper-181717?style=for-the-badge&logo=github)](https://github.com/AlbertoFoti/PacketSnooper)
+[![ImGuiTemplate](https://img.shields.io/badge/ImGuiTemplate-181717?style=for-the-badge&logo=github)](https://github.com/AlbertoFoti/ImGuiTemplate)
+[![RustLibraryTemplate](https://img.shields.io/badge/RustLibraryTemplate-181717?style=for-the-badge&logo=github)](https://github.com/AlbertoFoti/RustLibraryTemplate)
 
 ### Tech & Tools
 

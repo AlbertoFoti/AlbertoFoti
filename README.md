@@ -1,12 +1,13 @@
 ### Hi there, I'm Alberto Foti 👋
 
-I build software around systems, simulation, finance, and embedded/low-level programming. My work spans from portfolio and cash-flow tools to processor emulation and numerical algorithms.
+I build software around systems, simulation, finance, and low-level programming. My work spans portfolio tools, process simulators, numerical algorithms, and practical developer tooling.
 
 ### GitHub Stats
 
 <a href="https://github.com/AlbertoFoti">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoFoti&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoFoti&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
 </a>
+
 <a href="https://github.com/AlbertoFoti">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlbertoFoti&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Alberto Foti GitHub Stats" />
 </a>
@@ -49,8 +50,6 @@ I build software around systems, simulation, finance, and embedded/low-level pro
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertoFoti&repo=PacketSnooper&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-### Templates
-
 <a href="https://github.com/AlbertoFoti/ImGuiTemplate">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertoFoti&repo=ImGuiTemplate&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -62,10 +61,12 @@ I build software around systems, simulation, finance, and embedded/low-level pro
 ### Tech & Tools
 
 <div>
-  <img src="./assets/programming_logos/c.svg" width="32" height="32" alt="C" />
-  <img src="./assets/programming_logos/cplusplus.svg" width="32" height="32" alt="C++" />
-  <img src="./assets/programming_logos/rust.svg" width="32" height="32" alt="Rust" />
-  <img src="./assets/programming_logos/git.svg" width="32" height="32" alt="Git" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </div>
 
 ### Contact
